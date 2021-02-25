@@ -1,0 +1,6 @@
+name: BookTest
+version: 1.0.0
+main: br.com.abidux.books.Main
+author: abidux
+commands:
+  get:
